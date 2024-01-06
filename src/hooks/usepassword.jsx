@@ -45,5 +45,4 @@ const usePasswordGenerator = () => {
 
   return { password, generatePassword };
 };
-
 export default usePasswordGenerator;
